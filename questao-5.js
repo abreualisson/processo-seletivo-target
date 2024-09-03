@@ -10,5 +10,5 @@ function inverterString(str) {
 const stringOriginal = 'Target Sistemas, me dê uma oportunidade.';
 const stringInvertida = inverterString(stringOriginal);
 
-console.log(`Original: ${minhaString}`);
+console.log(`Original: ${stringOriginal}`);
 console.log(`Invertida: ${stringInvertida}`);
